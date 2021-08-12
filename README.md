@@ -1,5 +1,14 @@
 # CloudComputingProject
 
+## Overview ##
+### •	Create a dashboard based on AWS services that analyzes stock discussions. Scraping data applying Reddit, Twitter, and Google Search Trend API. Analysis data using Amazon Comprehend and Text2emotion package.
+### •	Operate amCharts to display line charts with moving averages for more than 15 different sentiments and emotions in 5 years. Users can subscribe to their stock and thresholds via email to receive notifications.
+
+
+## Demo Video ##
+### https://drive.google.com/file/d/1fkRHLjQoVbLhwYpn9e_91cPLWzOxiKOC/view?usp=sharing
+
+
 ## Architecture![image](https://github.com/tim-kao/CloudComputingProject/blob/main/snapshot/Cloud%20Computing%20Project.png)
 
 ## GoogleDoc ##
