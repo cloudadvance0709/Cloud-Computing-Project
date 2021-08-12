@@ -1,4 +1,4 @@
-# CloudComputingProject
+# Sentiment Analysis on Social Media
 
 ## Overview ##
 ### •	Create a dashboard based on AWS services that analyzes stock discussions. Scraping data applying Reddit, Twitter, and Google Search Trend API. Analysis data using Amazon Comprehend and Text2emotion package.
